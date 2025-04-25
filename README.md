@@ -4,4 +4,4 @@ verificar APIs
 
 comando para rodar
 
-streamlit run app.py# Rotas
+streamlit run app.py
